@@ -11,4 +11,4 @@ def test_clear_after_operation():
     assert result == 20
 
     cleared = calc.clear()
-    assert cleared == 0p
+    assert cleared == 0
